@@ -13,3 +13,22 @@
 - [ ] Inner voice
 - [ ] User agent
 - [ ] Licence
+
+## Usage
+
+```sh
+pip install openai
+```
+
+### Authentication
+Create a `openai_api.py` file and set your key there.
+
+> **Note** https://platform.openai.com/docs/api-reference/authentication
+
+```py
+import openai
+
+openai.api_key = 'OpenAI API key'
+```
+
+<!-- Tip: Use https://github.com/PawanOsman/ChatGPT -->
