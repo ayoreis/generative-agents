@@ -1,3 +1,25 @@
+```mermaid
+flowchart LR
+    p(Perceive)
+    m[["`**Memory Stream**`"]]
+    r(Retrieve)
+    rm[["`**Retrieved Memories**`"]]
+    pl(Plan)
+    re(Reflect)
+    a(Act)
+
+    p --> m
+    subgraph Generative Agent Memory
+    m --> r
+    r --> rm
+    end
+    rm --> pl
+    rm --> re
+    pl --> m
+    re --> m
+    rm --> a
+```
+
 # Generative Agents:<br/>Interactive Simulacra<br/>of Human Behavior
 
 <https://arxiv.org/abs/2304.03442>
