@@ -6,18 +6,21 @@ Join us on Discord: <https://discord.gg/5dkM59gsDY>
 
 ## TODO
 
-- [ ] Memory stream
+- [x] Read the [paper](https://arxiv.org/abs/2304.03442)
+- [x] Memories
+- [x] Memory stream
+- [x] ChatGPT
 - [ ] Observations
 - [ ] Memory retrival
 - [ ] Reflection
 - [ ] Planing
 - [ ] Reacting
 - [ ] Enviroment
-- [ ] Generative agents
 - [ ] Inner voice
 - [ ] User agent
 - [ ] Licence
 - [ ] Alternative cheaper/local models
+- [ ] GUI
 
 ## Usage
 
