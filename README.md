@@ -17,6 +17,7 @@ Join us on Discord: <https://discord.gg/5dkM59gsDY>
 - [ ] Inner voice
 - [ ] User agent
 - [ ] Licence
+- [ ] Alternative cheaper/local models
 
 ## Usage
 
