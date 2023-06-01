@@ -24,25 +24,13 @@ flowchart LR
 
 <https://arxiv.org/abs/2304.03442>
 
+We're building a Python implementation of Generative Agents.
+
 Join us on Discord: <https://discord.gg/5dkM59gsDY>
 
 ## TODO
 
-- [x] Read the [paper](https://arxiv.org/abs/2304.03442)
-- [x] Memories
-- [x] Memory stream
-- [x] ChatGPT
-- [ ] Observations
-- [ ] Memory retrival
-- [ ] Reflection
-- [ ] Planing
-- [ ] Reacting
-- [ ] Enviroment
-- [ ] Inner voice
-- [ ] User agent
-- [ ] Licence
-- [ ] Alternative cheaper/local models
-- [ ] GUI
+Check out the issues and projects tabs.
 
 ## Usage
 
@@ -69,10 +57,3 @@ openai.api_key = 'OpenAI API key'
 - <https://reverie.herokuapp.com/arXiv_Demo/#>
 - <https://platform.openai.com/docs/guides/chat/introduction>
 - <https://platform.openai.com/docs/api-reference/chat>
-
-## Updates
-
-### May 19
-
-- Created Discord server <https://discord.gg/5dkM59gsDY>
-- Indexed by Google <cache:https://github.com/ayoreis/generative-agents>
