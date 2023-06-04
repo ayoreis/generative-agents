@@ -32,6 +32,10 @@ Join us on Discord: <https://discord.gg/5dkM59gsDY>
 
 Check out the issues and projects tabs, there are also `# TODO`s scatered around the code.
 
+- Python 3.10+
+- Black
+- isort
+
 ## Usage
 
 ```sh
@@ -51,9 +55,3 @@ openai.api_key = 'OpenAI API key'
 ```
 
 <!-- Tip: Use https://github.com/PawanOsman/ChatGPT -->
-
-## Helpful links
-
-- <https://reverie.herokuapp.com/arXiv_Demo/#>
-- <https://platform.openai.com/docs/guides/chat/introduction>
-- <https://platform.openai.com/docs/api-reference/chat>
