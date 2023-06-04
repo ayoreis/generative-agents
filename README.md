@@ -28,9 +28,9 @@ We're building a Python implementation of Generative Agents.
 
 Join us on Discord: <https://discord.gg/5dkM59gsDY>
 
-## TODO
+## TODO and contributing
 
-Check out the issues and projects tabs.
+Check out the issues and projects tabs, there are also `# TODO`s scatered around the code.
 
 ## Usage
 
